@@ -1,4 +1,4 @@
-# sushi
+# Sushi Restaurant App
 
 ## Project Overview
 
@@ -16,7 +16,6 @@ Sushi Delight is a web project that showcases not only the delicious world of su
 - HTML5
 - CSS3
 - JavaScript
-- CSS animations (for card animations)
 
 ## Getting Started
 
