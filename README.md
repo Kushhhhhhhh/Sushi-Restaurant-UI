@@ -22,4 +22,4 @@ Sushi Delight is a web project that showcases not only the delicious world of su
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/sushi-delight.git
+   git clone https://github.com/Kushhhhhhhh/Sushi-Restaurant-UI.git
